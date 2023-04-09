@@ -1,0 +1,21 @@
+git commit -m "Initial commit"
+git commit -m "Add Java Class"
+git branch bug1
+git branch bug2
+git branch bug3
+git checkout bug1
+git commit -m "Fix wrong loop for reading"
+git checkout bug2
+git commit -m "Fix wrong condition in filterOddNumbers"
+git checkout bug3
+git rebase master
+git commit -m "Fix method sumEvenNumbers"
+git checkout master
+git merge bug1
+git push origin master
+git merge bug2 
+git push origin master
+git merge bug3
+git push origin master
+git log > logs.txt
+git commit -m "Final commit"

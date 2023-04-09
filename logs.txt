@@ -1,0 +1,53 @@
+commit 43a6b9386ac33012b278fcc76e02eac39119fb6a
+Merge: c2b2756 d1a86dc
+Author: DavidJandrijeski <74428189+DavidJandrijeski@users.noreply.github.com>
+Date:   Sun Apr 9 19:23:22 2023 +0200
+
+    Merge branch 'bug3'
+
+commit c2b2756ea58423fe33708ac6c28bd5967e4dd8fa
+Merge: 7f956ad 217af66
+Author: DavidJandrijeski <74428189+DavidJandrijeski@users.noreply.github.com>
+Date:   Sun Apr 9 19:22:45 2023 +0200
+
+    Merge branch 'bug2'
+
+commit d1a86dc0f4cf40de4e46fb59281174e9ec1fc09b
+Author: DavidJandrijeski <74428189+DavidJandrijeski@users.noreply.github.com>
+Date:   Sun Apr 9 19:18:54 2023 +0200
+
+    Fix method sumEvenNumbers
+    
+    Fix method sumEvenNumbers.
+
+commit 217af662b5f718cdcdf8e62afd340c6019ebb7e9
+Author: DavidJandrijeski <74428189+DavidJandrijeski@users.noreply.github.com>
+Date:   Sun Apr 9 19:17:18 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+    
+    Fix wrong condition in filterOddNumbers.
+
+commit 7f956ad24fa7f32db9ec74b1a3e137d751fb15f6
+Author: DavidJandrijeski <74428189+DavidJandrijeski@users.noreply.github.com>
+Date:   Sun Apr 9 19:13:44 2023 +0200
+
+     Fix wrong loop for reading
+    
+     Fix wrong loop for reading.
+
+commit ed03fe99476e5c0bf0cca4351ce546e356491c63
+Author: DavidJandrijeski <74428189+DavidJandrijeski@users.noreply.github.com>
+Date:   Sun Apr 9 19:10:19 2023 +0200
+
+    Add Java Class
+    
+    Add Java Class.
+
+commit a36734a3bfc5354519907552c78160b156d94518
+Author: DavidJandrijeski <74428189+DavidJandrijeski@users.noreply.github.com>
+Date:   Sun Apr 9 19:08:46 2023 +0200
+
+    Initial commit
+    
+    Initial commit.
